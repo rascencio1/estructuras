@@ -1,0 +1,10 @@
+c:\users\yiyoa\source\repos\22feb\22feb\bin\Debug\22feb.exe.config
+c:\users\yiyoa\source\repos\22feb\22feb\bin\Debug\22feb.exe
+c:\users\yiyoa\source\repos\22feb\22feb\bin\Debug\22feb.pdb
+c:\users\yiyoa\source\repos\22feb\22feb\obj\Debug\22feb.csprojResolveAssemblyReference.cache
+c:\users\yiyoa\source\repos\22feb\22feb\obj\Debug\_22feb.Form1.resources
+c:\users\yiyoa\source\repos\22feb\22feb\obj\Debug\_22feb.Properties.Resources.resources
+c:\users\yiyoa\source\repos\22feb\22feb\obj\Debug\22feb.csproj.GenerateResource.Cache
+c:\users\yiyoa\source\repos\22feb\22feb\obj\Debug\22feb.csproj.CoreCompileInputs.cache
+c:\users\yiyoa\source\repos\22feb\22feb\obj\Debug\22feb.exe
+c:\users\yiyoa\source\repos\22feb\22feb\obj\Debug\22feb.pdb
